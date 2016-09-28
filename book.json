@@ -1,0 +1,32 @@
+{
+    "title": "Lix 的个人知识管理平台",
+    "description": "用于管理在成为优秀全栈工程师过程中的知识",
+    "language": "zh-cn",
+    "plugins": [
+        "disqus",
+        "github",
+        "editlink",
+        "prism",
+        "-highlight",
+        "splitter", 
+        "image-captions"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "lix90"
+        },
+        "github": {
+            "url": "https://github.com/lix90/lixwiki"
+        },
+        "editlink": {
+            "base": "https://github.com/lix90/lixwiki/blob/master/content",
+            "label": {
+                "zh-cn": "编辑本页",
+                "en": "Edit This Page"
+            }
+        },
+        "image-captions": {
+            "caption": "Image - _CAPTION_"
+        }
+    }
+}
