@@ -21,6 +21,7 @@
 * [数据科学](datasci/README.md)
   * [Python](datasci/python/README.md)
   * [R](datasci/r/README.md)
+  * [RStudio](datasci/python/rstudio.md)
   * [Hadoop](datasci/hadoop/README.md)
   * [MySQL](datasci/mysql/README.md)
   * [机器学习](datasci/ml/README.md)
