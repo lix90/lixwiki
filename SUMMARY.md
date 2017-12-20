@@ -21,6 +21,7 @@
   * [PHP](backend/node/README.md)
 * [数据科学](datasci/README.md)
   * [Python](datasci/python/README.md)
+  * [Java](datasci/python/java.md)
   * [R](datasci/r/README.md)
   * [RStudio](datasci/python/rstudio.md)
   * [Hadoop](datasci/hadoop/README.md)
