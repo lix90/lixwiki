@@ -8,6 +8,7 @@
   * [Emacs](tool/emacs/README.md)
   * [Shell](tool/shell/README.md)
   * [Git](tool/git/README.md)
+  * [SSH](tool/macos/ssh.md)
 * [前端开发](frontend/README.md)
   * [HTML](frontend/html/README.md)
   * [CSS](frontend/css/README.md)
