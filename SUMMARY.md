@@ -27,3 +27,7 @@
   * [数据挖掘](datasci/dm/README.md)
   * [网络爬虫](datasci/scraper/README.md)
 
+## FAQ
+
+* [Java环境配置](faq/javahuan-jing-pei-zhi.md)
+
