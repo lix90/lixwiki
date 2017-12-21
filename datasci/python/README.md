@@ -36,3 +36,21 @@ Python3使用ASCII为默认编码方式
 
 解码：bytes -&gt; str
 
+---
+
+## Python与Hadoop交互
+
+通过subprocess模块调用HDFS命令
+
+https://community.hortonworks.com/articles/92321/interacting-with-hadoop-hdfs-using-python-codes.html
+
+hdfs模块
+
+pydoop模块
+
+pyhdfs模块
+
+
+
+
+
